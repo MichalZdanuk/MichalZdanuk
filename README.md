@@ -3,11 +3,7 @@
 
 💻 Proficient in both backend and frontend development, I possess a solid foundation in creating web applications and navigating the intricacies of API development. My skills extend to database design, where I am adept at constructing databases and establishing meaningful relationships between entities.
 
-🚀 Always in pursuit of growth and eager to explore new horizons, I am enthusiastic about forging connections within the tech community. Collaboration is where I thrive, and I find joy in contributing to projects that leverage the power of teamwork.
-
 🏋️ When not immersed in code, you'll find me dedicated to personal well-being and fitness at the gym. I thoroughly enjoy creating delectable dishes, experimenting with flavors, and mastering the art of culinary craft in the cozy confines of my kitchen.
-
-🌱 Committed to lifelong learning, I am open to new opportunities and collaborations. 
 
 <h4>Main Technologies I Use Everyday</h4>
 
