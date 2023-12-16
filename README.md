@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 🎓 I'm currently a Computer Science student at the Warsaw University of Technology (WUT), pursuing a degree in Software Engineering. My academic focus revolves around the world of crafting software solutions. My expertise lies in the domain of Web Applications, with an emphasis on devoloping APIs that serve as the backbone of innovative digital solutions.<br/><br/>
 
-💻 Proficient in both backend and frontend development, I possess a solid foundation in creating web applications and navigating the intricacies of API development. My skills extend to database design, where I am adept at constructing databases and establishing meaningful relationships between entities.
+💻 Experienced in backend development with a strong foundation in creating web applications and mastering the complexities of API development. Additionally, I possess knowledge of frontend development and have completed projects in this domain, showcasing a versatile skill set. Proficient in database design, establishing meaningful relationships between entities.
 
 🏋️ When not immersed in code, you'll find me dedicated to personal well-being and fitness at the gym. I thoroughly enjoy creating delectable dishes, experimenting with flavors, and mastering the art of culinary craft in the cozy confines of my kitchen.
 
