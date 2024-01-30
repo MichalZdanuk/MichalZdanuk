@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-🎓 I'm currently a Computer Science student at the Warsaw University of Technology (WUT), pursuing a degree in Software Engineering. My academic focus revolves around the world of crafting software solutions. My expertise lies in the domain of Web Applications, with an emphasis on devoloping APIs that serve as the backbone of innovative digital solutions.<br/><br/>
+🎓 I'm currently a Computer Science student at the Warsaw University of Technology (WUT), working towards my Master's degree in Software Engineering. My academic focus revolves around the world of crafting software solutions. My expertise lies in the domain of Web Applications, with an emphasis on devoloping APIs that serve as the backbone of innovative digital solutions.<br/><br/>
 
 💻 Experienced in backend development with a strong foundation in creating web applications and mastering the complexities of API development. Additionally, I possess knowledge of frontend development and have completed projects in this domain, showcasing a versatile skill set. Proficient in database design, establishing meaningful relationships between entities.
 
@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/FluentValidation/FluentValidation/gh-pages/assets/images/logo/fluent-validation-logo.png" heigh="55px" width="120px"/>
   <img src="https://avatars.githubusercontent.com/u/890883?s=280&v=4" heigh="60px" width="60px"/>
   <img src="https://codeheir.com/wp-content/uploads/2022/04/mockbetter.jpg" heigh="60px" width="60px"/>
-  <img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" heigh="60px" width="60px"/>
+  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" heigh="60px" width="60px"/>
 </div>
 
 
@@ -45,8 +45,8 @@
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-michalzdanuks-projects.vercel.app/api?username=MichalZdanuk&show_icons=true&count_private=true&line_height=21&hide_border=true&include_all_commits=true&hide_rank=true&&hide=issues" />
-  <img align="center" src="https://github-readme-stats-michalzdanuks-projects.vercel.app/api/top-langs/?username=MichalZdanuk&layout=compact&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichalZdanuk&show_icons=true&count_private=true&line_height=21&hide_border=true&include_all_commits=true&hide_rank=true&&hide=issues" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichalZdanuk&layout=compact&hide_border=true"/>
 </p>
 
 <!--
