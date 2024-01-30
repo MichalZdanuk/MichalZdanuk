@@ -44,10 +44,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" heigh="50px" width="50px"/>
 </div>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichalZdanuk&show_icons=true&count_private=true&line_height=21&hide_border=true&include_all_commits=true&hide_rank=true&&hide=issues" />
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichalZdanuk&layout=compact&hide_border=true"/>
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichalZdanuk&show_icons=true&count_private=true&line_height=21&hide_border=true&include_all_commits=true&hide_rank=true&&hide=issues" />
 </p>
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichalZdanuk&layout=compact&hide_border=true"/>
+</p>
+
+<!--
+<div display="flex" flex-direction="column" justify-content="center" align-items="center">
+  <div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichalZdanuk&show_icons=true&count_private=true&line_height=21&hide_border=true&include_all_commits=true&hide_rank=true&&hide=issues" />
+  </div>
+  <div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichalZdanuk&layout=compact&hide_border=true"/>
+  </div>
+</div>
 
 <!--
 **MichalZdanuk/MichalZdanuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
