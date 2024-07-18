@@ -71,13 +71,13 @@ I successfully defended my bachelor thesis, which involved the implementation of
 - JavaScript + Bootstrap
 - ESLint, Prettier
 
-[Project repository](https://github.com/MichalZdanuk/FitnessPortal).
+[Project repository](https://github.com/MichalZdanuk/FitnessPortal)
 
 ---
 
 ### Language Proficiency
 
-I have completed the EF SET Certificate with a great score of 75/100, achieving C2 Proficiency. [View certificate](https://cert.efset.org/sPfg2H).
+I have completed the EF SET Certificate with a great score of 75/100, achieving C2 Proficiency. [View certificate](https://cert.efset.org/sPfg2H)
 
 ---
 
