@@ -8,7 +8,7 @@
 
 ---
 
-### Commercial Experience
+### 💼 Commercial Experience
 
 **Junior .NET Developer**
 
@@ -21,31 +21,31 @@
 - Refactored the data storage format for tire lcoation in alerts, transitioning from the ISO hex standard (e.g., 110, 310) to a more user-friendly representation (e.g., 1RI for 1st axle, right inner; 2LO for 2nd axle, left outer). Adapted the entire application to support the new format.
 - Implemented a PUSH notification mechanism for alerts and portal messages, enabling instant notifications to drivers about critical events, such as wheel overheating (immediately visible on their registered devices, e.g., smartphones), or updates about messages received from other portal users.
 
-#### Technologies I Use
+#### Technologies I Use at Work
 
-##### Creating API
+##### 🌐 Creating API
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Automapper](https://img.shields.io/badge/Automapper-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-##### Unit and Integration Testing
+##### 🧪 Unit and Integration Testing
 ![MSUnit](https://img.shields.io/badge/MSUnit-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![NSubstitute](https://img.shields.io/badge/NSubstitute-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Shouldly](https://img.shields.io/badge/Shouldly-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Bogus](https://img.shields.io/badge/Bogus-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-##### Database management
+##### 🛢️ Database management
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-0078D7.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-##### Additional tools
+##### 🔧 Additional tools
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-##### Work organization
+##### 📅 Work organization
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -77,7 +77,7 @@ I successfully defended my bachelor thesis, which involved the implementation of
 
 ---
 
-### Language Proficiency
+### 🌍 Language Proficiency
 
 I have completed the EF SET Certificate with a great score of 75/100, achieving C2 Proficiency. [View certificate](https://cert.efset.org/sPfg2H)
 
@@ -85,7 +85,7 @@ I have completed the EF SET Certificate with a great score of 75/100, achieving 
 
 ### Technology Stack
 
-#### Main Technologies I Use Everyday
+#### 🔥 Main Technologies I Use Everyday
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" heigh="60px" width="60px"/>
@@ -96,7 +96,7 @@ I have completed the EF SET Certificate with a great score of 75/100, achieving 
   <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" heigh="60px" width="60px"/>
 </div>
 
-#### Additional Tools
+#### 📦 Additional Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" heigh="60px" width="60px"/>
@@ -104,7 +104,7 @@ I have completed the EF SET Certificate with a great score of 75/100, achieving 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" heigh="60px" width="60px"/>
 </div>
 
-#### Technologies I Used in past
+#### ⏳ Technologies I Used in past
 <div>
   <img src="https://www.svgrepo.com/show/374167/vite.svg" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigh="60px" width="60px"/>
