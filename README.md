@@ -12,12 +12,14 @@
 
 **Junior .NET Developer**
 
-- Developing API for handling a telematics portal.
-- Implementing automated tests to verify correct functionality.
-- Creating functional and technical documentation for applications.
-- Bug fixing and optimizing the backend layer.
-- Implementing a console application to automate the process of generating alerts on vehicles.
-- Implementation of batch processing defining alerts on vehicles.
+- Developed APIs for handling a telematics portal.
+- Implemented automated tests to verify functionality and ensure reliability.
+- Created functional and technical documentation for applications.
+- Fixed bugs and optimized the backend layer for better performance.
+- Designed and implemented a console application to automate testing of vehicle alert occurrences.
+- Developed a batch processing mechanism for defining alerts on vehicles.
+- Refactored the data storage format for tire lcoation in alerts, transitioning from the ISO hex standard (e.g., 110, 310) to a more user-friendly representation (e.g., 1RI for 1st axle, right inner; 2LO for 2nd axle, left outer). Adapted the entire application to support the new format.
+- Implemented a PUSH notification mechanism for alerts and portal messages, enabling instant notifications to drivers about critical events, such as wheel overheating (immediately visible on their registered devices, e.g., smartphones), or updates about messages received from other portal users.
 
 #### Technologies I Use
 
@@ -99,7 +101,6 @@ I have completed the EF SET Certificate with a great score of 75/100, achieving 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" heigh="60px" width="60px"/>
 </div>
 
@@ -107,11 +108,9 @@ I have completed the EF SET Certificate with a great score of 75/100, achieving 
 <div>
   <img src="https://www.svgrepo.com/show/374167/vite.svg" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://reactrouter.com/_brand/react-router-stacked-color.png" heigh="60px" width="112px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" heigh="60px" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" heigh="60px" width="60px"/>
 </div>
 
