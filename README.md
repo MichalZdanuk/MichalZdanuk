@@ -23,12 +23,14 @@
 
 #### Technologies I Use at Work
 
-##### 🌐 Creating API
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+##### 🏗️ Building APIs and Middleware
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![YARP Reverse Proxy](https://img.shields.io/badge/YARP%20Reverse%20Proxy-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Automapper](https://img.shields.io/badge/Automapper-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Automapper](https://img.shields.io/badge/Automapper-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Mapster](https://img.shields.io/badge/Mapster-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 ##### 🧪 Unit and Integration Testing
 ![MSUnit](https://img.shields.io/badge/MSUnit-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
@@ -38,10 +40,13 @@
 
 ##### 🛢️ Database management
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-0078D7.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ##### 🔧 Additional tools
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
