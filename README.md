@@ -17,8 +17,9 @@
 - Created functional and technical documentation for applications.
 - Fixed bugs and optimized the backend layer for better performance.
 - Designed and implemented a console application to automate testing of vehicle alert occurrences.
+- Proposed and implemented a custom XSS defense filter, enhancing application security against cross-site scripting attacks.
 - Developed a batch processing mechanism for defining alerts on vehicles.
-- Refactored the data storage format for tire lcoation in alerts, transitioning from the ISO hex standard (e.g., 110, 310) to a more user-friendly representation (e.g., 1RI for 1st axle, right inner; 2LO for 2nd axle, left outer). Adapted the entire application to support the new format.
+- Refactored the data storage format for tire lcoation in alerts, transitioning from the ISO hex standard (e.g., 110, 310) to a more user-friendly representation (e.g., 1RI for 1st axle, right inner; 2LO for 2nd axle, left outer). Adapted the entire application to support the new format. Expanded the system to so as users from external application can integrateto receive alert messages, as well as push notifications for driver-trailer connection and disconnection events.
 - Implemented a PUSH notification mechanism for alerts and portal messages, enabling instant notifications to drivers about critical events, such as wheel overheating (immediately visible on their registered devices, e.g., smartphones), or updates about messages received from other portal users.
 
 #### Technologies I Use at Work
