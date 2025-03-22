@@ -21,6 +21,7 @@
 - Developed a batch processing mechanism for defining alerts on vehicles.
 - Refactored the data storage format for tire lcoation in alerts, transitioning from the ISO hex standard (e.g., 110, 310) to a more user-friendly representation (e.g., 1RI for 1st axle, right inner; 2LO for 2nd axle, left outer). Adapted the entire application to support the new format. Expanded the system to so as users from external application can integrateto receive alert messages, as well as push notifications for driver-trailer connection and disconnection events.
 - Implemented a PUSH notification mechanism for alerts and portal messages, enabling instant notifications to drivers about critical events, such as wheel overheating (immediately visible on their registered devices, e.g., smartphones), or updates about messages received from other portal users.
+- Developed an integration mechanism between systems for task creation and command storage related to the reconfiguration of wheel sensors.
 
 #### Technologies I Use at Work
 
@@ -55,6 +56,36 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+---
+
+### 📚 Reading List  
+
+#### Finished  
+
+- **Clean Code: A Handbook of Agile Software Craftsmanship**  
+  *Robert C. Martin*, 2008. 
+
+- **The Clean Coder: A Code of Conduct for Professional Programmers**  
+  *Robert C. Martin*, 2011. 
+
+- **Code That Fits in Your Head: Heuristics for Software Engineering**  
+  *Mark Seemann*, 2020.   
+
+- **Clean Agile: Back to Basics**  
+  *Robert C. Martin*, 2020.
+
+#### To Read (waiting on my bookshelf 😊)
+
+- **Domain-Driven Design: Tackling Complexity in the Heart of Software**  
+  *Eric Evans*, 2003.  
+
+- **Clean Architecture: A Craftsman’s Guide to Software Structure and Design**  
+  *Robert C. Martin*, 2017.  
+
+- **Building Evolutionary Architectures: Support Constant Change (Second Edition)**  
+  *Neal Ford, Rebecca Parsons, Patrick Kua*, 2022.  
+
 
 ---
 
