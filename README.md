@@ -1,6 +1,8 @@
 <h1>Hi there 👋</h1>
 
-🎓 I'm currently a Computer Science student at the Warsaw University of Technology (WUT), working towards my Master's degree in Software Engineering. With one year of commercial experience as a Junior .NET Developer, my academic and professional focus revolves around crafting innovative software solutions. I specialize in developing Web Applications, particularly APIs that serve as the backbone of modern digital solutions.
+### ✨ Intro About Me 
+
+🎓 I'm currently a Computer Science student at the Warsaw University of Technology (WUT), working towards my Master's degree in Software Engineering. With more than a year and a half of commercial experience as a .NET Developer, my academic and professional focus revolves around crafting innovative software solutions. I specialize in developing Web Applications, particularly APIs that serve as the backbone of modern digital solutions.
 
 💻 Experienced in backend development with a strong foundation in creating web applications and mastering the complexities of API development. Additionally, I possess knowledge of frontend development and have completed projects in this domain, showcasing a versatile skill set. Proficient in database design, establishing meaningful relationships between entities.
 
@@ -120,36 +122,7 @@ I have completed the EF SET Certificate with a great score of 75/100, achieving 
 
 ---
 
-### Technology Stack
-
-#### 🔥 Main Technologies I Use Everyday
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://miro.medium.com/v2/resize:fit:600/0*08bsUxGq5YGlofxO.png" heigh="60px" width="90px"/>
-  <img src="https://raw.githubusercontent.com/FluentValidation/FluentValidation/gh-pages/assets/images/logo/fluent-validation-logo.png" heigh="55px" width="120px"/>
-  <img src="https://avatars.githubusercontent.com/u/890883?s=280&v=4" heigh="60px" width="60px"/>
-  <img src="https://codeheir.com/wp-content/uploads/2022/04/mockbetter.jpg" heigh="60px" width="60px"/>
-  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" heigh="60px" width="60px"/>
-</div>
-
-#### 📦 Additional Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" heigh="60px" width="60px"/>
-</div>
-
-#### ⏳ Technologies I Used in past
-<div>
-  <img src="https://www.svgrepo.com/show/374167/vite.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" heigh="60px" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" heigh="60px" width="60px"/>
-</div>
+### 📈 Github Stats
 
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichalZdanuk&show_icons=true&count_private=true&line_height=21&hide_border=true&include_all_commits=true&hide_rank=true&&hide=issues" />
