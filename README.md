@@ -140,6 +140,8 @@ I have completed the EF SET Certificate with a great score of 75/100, achieving 
 
 ### 📈 Github Stats
 
+Below are the stats for this account, showcasing the number of commits, pull requests, and a graph that visualizes the percentage of code in each language. Please note that within company, we primarily use Bitbucket accounts tied to company domain emails (stats are not included in here).
+
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichalZdanuk&show_icons=true&count_private=true&line_height=21&hide_border=true&include_all_commits=true&hide_rank=true&&hide=issues" />
 </p>
