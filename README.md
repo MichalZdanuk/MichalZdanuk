@@ -91,7 +91,23 @@
 
 ---
 
-### Bachelor Thesis Project: Web Fitness Portal
+### 🧑‍🏫 Completed Courses on Udemy
+
+I continually expand my knowledge through online courses. Below are the courses I have completed, along with certification links:
+
+- **.NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture** [![Certificate](https://img.shields.io/badge/View%20Certificate-0073b1?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-495b6910-a9e9-4bcc-b575-f990cfbb08ce/)  
+
+- **Kompletny kurs C# dla developerów .NET od eksperta +praktyka** [![Certificate](https://img.shields.io/badge/View%20Certificate-0073b1?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-9ae8458e-3b33-4524-ad90-4eda0e7bc8f7/)  
+
+- **SQL Development with MS SQL Server: Beginner to Master 2025** [![Certificate](https://img.shields.io/badge/View%20Certificate-0073b1?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-651aa3f2-b56e-4849-a3b8-50c37241b546/)  
+
+- **SOLID, Wzorce Projektowe w C# (.NET) – praktyczny przewodnik** [![Certificate](https://img.shields.io/badge/View%20Certificate-0073b1?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-b74582c2-b27b-4e5d-8908-85807bbc43b0/)  
+
+- **Neo4j: GraphDB Foundations with Cypher** [![Certificate](https://img.shields.io/badge/View%20Certificate-0073b1?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-19e7bec3-c318-4baf-b431-2c04c78cdc29/) 
+
+---
+
+### 🎓 Bachelor Thesis Project: Web Fitness Portal
 
 I successfully defended my bachelor thesis, which involved the implementation of a web fitness portal encompassing both frontend and backend development. This project covered the full software development lifecycle, from analyzing requirements, designing UI/UX, planning architecture to implementation and testing. Below is a listing of the technologies used:
 
