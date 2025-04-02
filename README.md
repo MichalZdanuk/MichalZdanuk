@@ -24,17 +24,19 @@
 - Refactored the data storage format for tire lcoation in alerts, transitioning from the ISO hex standard (e.g., 110, 310) to a more user-friendly representation (e.g., 1RI for 1st axle, right inner; 2LO for 2nd axle, left outer). Adapted the entire application to support the new format.
 - Implemented a PUSH notification mechanism for alerts and portal messages, enabling instant notifications to drivers about critical events, such as wheel overheating (immediately visible on their registered devices, e.g., smartphones), or updates about messages received from other portal users. Additionally, apply mechanism for driver-trailer connection and disconnection events. Expanded the system so as users from external application can integrate to receive push notifications. 
 - Developed an integration mechanism between systems for task creation and command storage related to the reconfiguration of wheel sensors.
+- Developed a sender module for email and SMS communication in a remote inspection system, integrating event publishing and message preparation between two internal systems.
 
 #### Technologies I Use at Work
 
 ##### 🏗️ Building APIs and Middleware
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MediatR](https://img.shields.io/badge/MediatR-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-![YARP Reverse Proxy](https://img.shields.io/badge/YARP%20Reverse%20Proxy-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![MassTransit](https://img.shields.io/badge/MassTransit-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Automapper](https://img.shields.io/badge/Automapper-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Mapster](https://img.shields.io/badge/Mapster-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![YARP Reverse Proxy](https://img.shields.io/badge/YARP%20Reverse%20Proxy-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white) 
 
 ##### 🧪 Unit and Integration Testing
 ![MSUnit](https://img.shields.io/badge/MSUnit-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
