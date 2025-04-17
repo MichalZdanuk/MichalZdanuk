@@ -79,6 +79,13 @@
 - **Clean Agile: Back to Basics**  
   *Robert C. Martin*, 2020.
 
+- **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones**  
+  *James Clear*, 2018.
+
+#### In Progress
+- **Deep Work: Rules for Focused Success in a Distracted World**  
+  *Cal Newport*, 2016.
+
 #### To Read (waiting on my bookshelf 😊)
 
 - **Domain-Driven Design: Tackling Complexity in the Heart of Software**  
