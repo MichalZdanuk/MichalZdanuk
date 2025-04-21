@@ -82,10 +82,16 @@
 - **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones**  
   *James Clear*, 2018.
 
-#### In Progress
 - **Deep Work: Rules for Focused Success in a Distracted World**  
   *Cal Newport*, 2016.
 
+#### In Progress
+- **Slow Productivity: The Lost Art of Accomplishment Without Burnout**  
+  *Cal Newport*, 2024.
+  
+- **The Quick and Easy Way to Effective Speaking**  
+  *Dale Carnegie*, 2012.
+  
 #### To Read (waiting on my bookshelf 😊)
 
 - **Domain-Driven Design: Tackling Complexity in the Heart of Software**  
