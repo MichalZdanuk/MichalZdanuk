@@ -106,6 +106,15 @@
 
 ---
 
+### 🌐 .NET Experts I Follow
+I regularly broaden my horizons by following industry-experienced .NET developers who generously share their expertise with the community. Their blogs and videos are a great source of practical insights and inspiration:
+
+- **Nick Chapsas Youtube Channel** [Watch on YouTube](https://www.youtube.com/@nickchapsas)
+
+- **Milan Jovanovic Tech Blog** [Read on milanjovanovic.tech](https://www.milanjovanovic.tech/)
+
+- **Mukesh Murugan Tech Blog** [Read on codewithmukesh.com](https://codewithmukesh.com/)
+
 ### 🧑‍🏫 Completed Courses on Udemy
 
 I continually expand my knowledge through online courses. Below are the courses I have completed, along with certification links:
