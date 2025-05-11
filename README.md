@@ -85,10 +85,11 @@
 - **Deep Work: Rules for Focused Success in a Distracted World**  
   *Cal Newport*, 2016.
 
-#### In Progress
 - **Slow Productivity: The Lost Art of Accomplishment Without Burnout**  
   *Cal Newport*, 2024.
-  
+
+#### In Progress
+
 - **The Quick and Easy Way to Effective Speaking**  
   *Dale Carnegie*, 2012.
   
