@@ -12,7 +12,9 @@
 
 ### 💼 Commercial Experience
 
-**Junior .NET Developer**
+**.NET Developer**
+
+*Aberg Connect sp. z o o. | 09.2023 - present*
 
 - Developed APIs for handling a telematics portal.
 - Implemented automated tests to verify functionality and ensure reliability.
@@ -60,6 +62,54 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+---
+
+### 🎓 Master Thesis: Comparative Analysis of Monolithic Architecture and Microservices-Based Architecture Using an Example System
+
+As part of my master's thesis, I developed and analyzed two equivalent backend systems for managing conferences, each built using a distinct architectural style — **monolithic** and **microservices** — to assess their performance, scalability, and maintainability in the context of early-stage **MVP systems**.
+
+This project encompassed full-cycle software engineering: from architecture design and implementation in .NET, to performance testing using **NBomber**. The same domain and functionality were implemented in both architectures to ensure fair comparison.
+
+Each solution adheres to **Clean Architecture** and **DDD** principles, and the comparison is based on realistic use cases such as creating and managing conferences, user authentication, registration, and notifications.
+
+**Technology Stack:**
+- .NET 8, EF Core, MediatR, YARP
+- RabbitMQ + MassTransit
+- Docker
+- NBomber + XUnit
+- Python
+
+**Repositories**
+- 🔗 [Microservices Solution](https://github.com/MichalZdanuk/ConfyMicroservices)
+- 🔗 [Monolithic Solution](https://github.com/MichalZdanuk/ConfyMonolith)
+- 📊 [Architecture Comparison](https://github.com/MichalZdanuk/ArchitecturesAnalysis)
+
+---
+
+### 🎓 Bachelor Thesis Project: Web Fitness Portal
+
+I successfully defended my bachelor thesis, which involved the implementation of a web fitness portal encompassing both frontend and backend development. This project covered the full software development lifecycle, from analyzing requirements, designing UI/UX, planning architecture to implementation and testing. Below is a listing of the technologies used:
+
+**BackEnd:**
+
+- C# .NET (6.0) - ASP.NET Core Web API
+- Swagger
+- JWT
+- FluentValidation
+- EntityFramework + MSSQL
+- MSUnit, NSubstitute, Shouldly
+
+**FrontEnd:**
+
+- React (including react-router-dom, recharts, jwt-decode, lodash) - Vite
+- axios
+- localStorage
+- JavaScript + Bootstrap
+- ESLint, Prettier
+
+**Repositories:**
+- 🔗 [Project repository](https://github.com/MichalZdanuk/FitnessPortal)
 
 ---
 
@@ -129,31 +179,6 @@ I continually expand my knowledge through online courses. Below are the courses 
 - **SOLID, Wzorce Projektowe w C# (.NET) – praktyczny przewodnik** [![Certificate](https://img.shields.io/badge/View%20Certificate-0073b1?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-b74582c2-b27b-4e5d-8908-85807bbc43b0/)  
 
 - **Neo4j: GraphDB Foundations with Cypher** [![Certificate](https://img.shields.io/badge/View%20Certificate-0073b1?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-19e7bec3-c318-4baf-b431-2c04c78cdc29/) 
-
----
-
-### 🎓 Bachelor Thesis Project: Web Fitness Portal
-
-I successfully defended my bachelor thesis, which involved the implementation of a web fitness portal encompassing both frontend and backend development. This project covered the full software development lifecycle, from analyzing requirements, designing UI/UX, planning architecture to implementation and testing. Below is a listing of the technologies used:
-
-**BackEnd:**
-
-- C# .NET (6.0) - ASP.NET Core Web API
-- Swagger
-- JWT
-- FluentValidation
-- EntityFramework + MSSQL
-- MSUnit, NSubstitute, Shouldly
-
-**FrontEnd:**
-
-- React (including react-router-dom, recharts, jwt-decode, lodash) - Vite
-- axios
-- localStorage
-- JavaScript + Bootstrap
-- ESLint, Prettier
-
-[Project repository](https://github.com/MichalZdanuk/FitnessPortal)
 
 ---
 
