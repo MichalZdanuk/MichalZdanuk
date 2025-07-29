@@ -2,7 +2,7 @@
 
 ### ✨ Intro About Me 
 
-🎓 I'm currently a Computer Science student at the Warsaw University of Technology (WUT), working towards my Master's degree in Software Engineering. With more than a year and a half of commercial experience as a .NET Developer, my academic and professional focus revolves around crafting innovative software solutions. I specialize in developing Web Applications, particularly APIs that serve as the backbone of modern digital solutions.
+🎓 I'm a Master's graduate in Software Engineering from the Warsaw University of Technology (WUT), with 2 years of commercial experience as a .NET Developer. My academic and professional journey has been centered around building innovative, robust software solutions. I specialize in developing Web Applications, particularly APIs that serve as the backbone of modern digital systems.
 
 💻 Experienced in backend development with a strong foundation in creating web applications and mastering the complexities of API development. Additionally, I possess knowledge of frontend development and have completed projects in this domain, showcasing a versatile skill set. Proficient in database design, establishing meaningful relationships between entities.
 
